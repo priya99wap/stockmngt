@@ -1,0 +1,2 @@
+# stockmngt
+simple stock exchange
